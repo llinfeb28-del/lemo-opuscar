@@ -1,0 +1,19 @@
+久坐族自测 (sitting-check) — third-party assets in this film
+
+Fonts (all SIL Open Font License 1.1, from Google Fonts)
+- ZCOOL QingKe HuangYou (站酷庆科黄油体) — the main title — subset via fonts.googleapis.com
+- Noto Serif SC (思源宋体) 900 — headlines and step titles — subset via fonts.googleapis.com
+- ZCOOL KuaiLe (站酷快乐体) — the opening question — subset via fonts.googleapis.com
+- Noto Sans SC (思源黑体) 500 / 700 / 900 — labels, tags, captions — subset via fonts.googleapis.com
+- Alfa Slab One — numerals — https://github.com/google/fonts/tree/main/ofl/alfaslabone (OFL-alfaslabone.txt)
+- Jost — "STEP n OF 3" — https://github.com/google/fonts/tree/main/ofl/jost (OFL-jost.txt)
+- Oleo Script — loaded, not shown — https://github.com/google/fonts/tree/main/ofl/oleoscript (OFL-oleoscript.txt)
+
+Sound
+- All sound effects are synthesised in code (numpy / scipy) by mix.py and core/audio/sfx.py. No samples, no music, no voice.
+
+Pictures
+- Everything is drawn in code (Canvas 2D). No photos, stock footage or generated video.
+
+Facts
+- Sources for every health statement are listed in FACTS.md (WHO 2020 guidelines; Ekelund et al., Lancet 2016; studies on sitting and lower-leg swelling).
